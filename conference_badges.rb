@@ -16,4 +16,4 @@ end
   badge_batch_creator(name)
   
   def assign_rooms(name)
-    
+    name.each_
