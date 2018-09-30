@@ -18,8 +18,8 @@ end
   def assign_rooms(room)
     name.each_with_index |room|
     counter=0
+      name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus","Matz"]
    room = [1,2,3,4,5,6,7]
-     name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus","Matz"]
     puts "Hello,#{name[counter]}! You'll be assigned to room #{[room]}!"
     counter +=1
 end
