@@ -15,7 +15,7 @@ end
   
   badge_batch_creator(name)
   
-  def assign_rooms(name)
+  def assign_rooms(room)
     name.each_with_index |room|
     counter=0
    room = [1,2,3,4,5,6,7]
