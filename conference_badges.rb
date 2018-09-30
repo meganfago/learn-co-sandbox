@@ -18,6 +18,7 @@ end
   def assign_rooms(name)
     name.each_with_index |room|
     counter=0
+    room = [name.length]
     puts "Hello,#{name[counter]}! You'll be assigned to room #{room}!"
     counter +=1
   end
