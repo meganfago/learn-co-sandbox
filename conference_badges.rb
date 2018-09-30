@@ -2,7 +2,7 @@ def badge_maker
   "Arel"
 end
 puts "Hello, my name is #{"Arel"}."
-end
+
 
 def badge_batch_creator(name)
   counter = 0
