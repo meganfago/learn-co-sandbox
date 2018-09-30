@@ -3,4 +3,5 @@ def badge_maker
 end
 puts "Hello, my name is #{"Arel"}."
 
-def badge
+def badge_batch_creator(name)
+  
