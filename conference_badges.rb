@@ -11,4 +11,5 @@ def badge_batch_creator(name)
  end 
 end 
   name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus","Matz"]
+  
   badge_batch_creator(name)
