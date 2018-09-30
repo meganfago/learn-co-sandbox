@@ -18,7 +18,7 @@ end
   def assign_rooms(name)
     name.each_with_index |room|
     counter=0
-   while room = [name.length]
+   while room = [1,2,3,4,5,6,7]
     puts "Hello,#{name[counter]}! You'll be assigned to room #{[room]}!"
     counter +=1
   end
