@@ -25,5 +25,5 @@ end
 end
   name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus","Matz"]
   room = ["1","2","3","4","5","6","7"]
-    assign_rooms(name)
+    assign_rooms(room)
     
