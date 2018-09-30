@@ -21,7 +21,6 @@ end
    room = [1,2,3,4,5,6,7]
     puts "Hello,#{name[counter]}! You'll be assigned to room #{[room]}!"
     counter +=1
-  end
 end
   name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus","Matz"]
     assign_rooms(name)
