@@ -15,4 +15,4 @@ end
   
   badge_batch_creator(name)
   
-  def 
+  def assign_rooms(name)
