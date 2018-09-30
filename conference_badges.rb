@@ -16,4 +16,5 @@ end
   badge_batch_creator(name)
   
   def assign_rooms(name)
-    name.each_
+    name.each_with_index |room|
+    
