@@ -17,4 +17,5 @@ end
   
   def assign_rooms(name)
     name.each_with_index |room|
-    puts ""
+    puts "Hello,#{name[counter]}! You'll be assigned to room #{[room]}!
+    
